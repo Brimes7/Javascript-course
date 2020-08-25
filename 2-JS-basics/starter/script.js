@@ -47,7 +47,7 @@ console.log(job);
 
 
 
-//BASIC OPERATORS.
+
 // var year = 2020
 // var yearJohn = year-28;
 // var yearMark = year-33;
@@ -85,13 +85,3 @@ switch(job){
         console.log(firstName + ' designs beautiful websites.');
         break;
 }
-
-
-
-
-
-
-
-
-
-
