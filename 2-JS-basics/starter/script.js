@@ -90,12 +90,12 @@ console.log(job);
 
 //falsy values are undefined, null, 0, ", NaN
 //truthy values:; NOT falsy values
-
-var height;
-height = 0;
-
-if(height || height === 0) {
-    console.log('Variable is defined');
-} else {
-    console.log('Variable has NOT been defined.');
-}
+//
+// var height;
+// height = 0;
+//
+// if(height || height === 0) {
+//     console.log('Variable is defined');
+// } else {
+//     console.log('Variable has NOT been defined.');
+// }
