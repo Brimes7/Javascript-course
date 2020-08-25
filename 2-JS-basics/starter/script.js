@@ -59,10 +59,10 @@ console.log(job);
 // console.log(year / 10);//Logical Variable
 
 //Ternary V Operator
-var firstName = "John";
-var age = 16;
-
-age >= 18 ? console.log(firstName + 'drinks beer.') : console.log(firstName + ' drinks juice.');
+// var firstName = "John";
+// var age = 16;
+//
+// age >= 18 ? console.log(firstName + 'drinks beer.') : console.log(firstName + ' drinks juice.');
 //
 // if(age >=18){
 //     var drink = 'beer';
@@ -72,16 +72,18 @@ age >= 18 ? console.log(firstName + 'drinks beer.') : console.log(firstName + ' 
 
 //Switch Statement
 
-var job = 'teacher';
-switch(job){
-
-    case 'teacher':
-        console.log(firstName + ' teaches kids how to code.');
-        break;
-    case 'driver':
-        console.log(firstName + ' drive an uber in Lisbon.');
-        break;
-    case 'designer':
-        console.log(firstName + ' designs beautiful websites.');
-        break;
-}
+// var job = 'teacher';
+// switch(job){
+//
+//     case 'teacher':
+//         console.log(firstName + ' teaches kids how to code.');
+//         break;
+//     case 'driver':
+//         console.log(firstName + ' drive an uber in Lisbon.');
+//         break;
+//     case 'designer':
+//         console.log(firstName + ' designs beautiful websites.');
+//         break;
+//     default:
+//         console.log(firstName + ' does something else');
+// }
