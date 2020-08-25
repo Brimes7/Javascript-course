@@ -47,14 +47,41 @@ console.log(job);
 
 
 
-//BASIC OPERATORS.
-var year = 2020
-var yearJohn = year-28;
-var yearMark = year-33;
 
-console.log(yearJohn);
+// var year = 2020
+// var yearJohn = year-28;
+// var yearMark = year-33;
+//
+// console.log(yearJohn);
+//
+// console.log(year + 2);
+//
+// console.log(year / 10);//Logical Variable
 
-console.log(year + 2);
+//Ternary V Operator
+var firstName = "John";
+var age = 16;
 
-console.log(year / 10);//Logical Variable
+age >= 18 ? console.log(firstName + 'drinks beer.') : console.log(firstName + ' drinks juice.');
+//
+// if(age >=18){
+//     var drink = 'beer';
+// } else {
+//     var drink = 'juice';
+// }
 
+//Switch Statement
+
+var job = 'teacher';
+switch(job){
+
+    case 'teacher':
+        console.log(firstName + ' teaches kids how to code.');
+        break;
+    case 'driver':
+        console.log(firstName + ' drive an uber in Lisbon.');
+        break;
+    case 'designer':
+        console.log(firstName + ' designs beautiful websites.');
+        break;
+}
