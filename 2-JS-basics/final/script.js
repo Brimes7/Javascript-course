@@ -232,7 +232,7 @@ console.log(drink);
     var drink = 'juice';
 }
 
-// Switch statemen
+// Switch state men
 var job = 'instructor';
 switch (job) {
     case 'teacher':
